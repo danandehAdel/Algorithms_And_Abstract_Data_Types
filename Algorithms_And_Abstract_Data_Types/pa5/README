@@ -1,0 +1,21 @@
+Adel Danandeh
+Assignment#5
+Due Date: 12/08/14
+
+
+Files that have been submitted are List.h, List.c, Graph.c, Graph.h, GraphTest.c, FindComponents.c, and Makefile.
+
+List.h is the header file of Linked List data structure of this program. All the function
+protypes which will do certain operations are listed in this file (header file).
+
+List.c contains all the defenition of the functions listed in the header file. Funtions manage the implamentaion of
+the doubly link list. 
+
+Graph.h is the header file of Graph implementation. All the function protypes which will do certain operations are listed in this file. 
+
+Graph.c contains all the defenition of the functions listed in the header file. Graph.c is the implementation of Graph and interface files
+respectively for the Graph module. 
+
+GraphTest.c is for testing the Graph purposes. 
+
+FindComponents.c implements the top level client and main program for this project. 
