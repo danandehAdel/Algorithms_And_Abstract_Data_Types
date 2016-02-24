@@ -1,8 +1,6 @@
 /*
   Assignment #1
   Adel Danandeh
-  ID# 1436677
-  Due Date: 10/13/14
   
   Lex.java is the driver class. Input from a file gets sorted using 
   insertion method and then it gets printed to an output file.

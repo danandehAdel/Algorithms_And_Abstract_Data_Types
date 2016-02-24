@@ -1,8 +1,7 @@
 /* 
   Adel Danandeh
   Assignment #1
-  ID# 1436677
-  Due Date: 10/13/14
+
   
   List.java is implementation of a doubly link list structure which has certain methods defined in it. 
   
