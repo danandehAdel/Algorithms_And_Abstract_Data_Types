@@ -1,0 +1,16 @@
+Adel Danandeh
+Assignment#3
+Due Date: 11/8/14
+
+Files that have been submitted are List.java, Matrix.java, Sparse.java, MatrixTest.java, ListTest.java, and Makefile.
+
+List.java is a doubly link list structure which contains all the defenitions of the functions listed.
+Funtions manage the implementation of the doubly link list. 
+
+Matrix.java is implementation of a matrix. Appropriate operations asked take place in this file. 
+
+Sparse.java reads an input from a file and writes the output into a file.
+
+MatrixTest.java is for testing Matrix purposes. 
+
+ListTest.java is for testing List purposes.  
