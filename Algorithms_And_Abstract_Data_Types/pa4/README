@@ -1,0 +1,21 @@
+Adel Danandeh
+Assignment#4
+Due Date: 11/21/14
+
+
+Files that have been submitted are List.h, List.c, Graph.c, Graph.h, GraphTest.c, FindPath.c, and Makefile.
+
+List.h is the header file of this program. Node and list structure is defined in the header file. All the function
+protypes which will do certain operations are listed in this file (header file).
+
+List.c contains all the defenition of the functions listed in the header file. Funtions manage the implamentaion of
+the doubly link list. 
+
+Graph.h is the header file of for graph implementation. All the function protypes which will do certain operations are listed in this file. 
+
+Graph.c contains all the defenition of the functions listed in the header file. Functions manage the implamentaion of
+the Graph.
+
+GraphTest.c is for testing the Graph purposes. 
+
+FindPath.c opens an input file and parse the data properly into the Graph, and then it prints the path between vertices. 
