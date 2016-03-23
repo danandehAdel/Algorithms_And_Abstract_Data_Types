@@ -1,11 +1,3 @@
-/*
- * Program: hw1.pl
- * Authors: Prateek Chawla Adel Danandeh
- * On this homework (h1.hs and h1.pl), we worked together for 3 hours,
- * Prateek worked independently for 1 hour,
- * and Adel worked independently for 1 hour.
- */
-
 father(al, bud).
 father(al, kelly).
 mother(peggy, kelly).
